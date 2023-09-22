@@ -1,0 +1,8 @@
+C:\Users\lab_services_student\source\repos\GradedProject\GradedProject\bin\Debug\GradedProject.exe.config
+C:\Users\lab_services_student\source\repos\GradedProject\GradedProject\bin\Debug\GradedProject.exe
+C:\Users\lab_services_student\source\repos\GradedProject\GradedProject\bin\Debug\GradedProject.pdb
+C:\Users\lab_services_student\source\repos\GradedProject\GradedProject\obj\Debug\GradedProject.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\GradedProject\GradedProject\obj\Debug\GradedProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab_services_student\source\repos\GradedProject\GradedProject\obj\Debug\GradedProject.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\GradedProject\GradedProject\obj\Debug\GradedProject.exe
+C:\Users\lab_services_student\source\repos\GradedProject\GradedProject\obj\Debug\GradedProject.pdb
