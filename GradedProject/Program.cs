@@ -12,7 +12,8 @@ namespace GradedProject
         {
             // initialize variables - graded assignments
             int examAssignments = 5;
-
+            
+            //declare arrays
             int[] sophiaScores = new int[] { 90, 86, 87, 98, 100, 94, 90 };
             int[] andrewScores = new int[] { 92, 89, 81, 96, 90, 89 };
             int[] emmaScores = new int[] { 90, 85, 87, 98, 68, 89, 89, 89 };
